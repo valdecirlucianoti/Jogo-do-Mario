@@ -3,7 +3,7 @@ Jogo em plataforma 2D, do tipo corrida sem fim com obstáculos .
 
 ## O projeto
 <p aling = "center">
-  <img src = "src/assets/main_image.png">
+  <img src="assets/main_image.PNG">
 </p>
 
 ## Resumo
